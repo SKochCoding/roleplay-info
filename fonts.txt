@@ -1,0 +1,9 @@
+Link
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quintessential&family=Raleway:ital,wght@1,100&display=swap" rel="stylesheet">
+
+
+css
+font-family: 'Quintessential', cursive;
+font-family: 'Raleway', sans-serif;
